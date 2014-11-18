@@ -1,0 +1,889 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"currency"
+			],
+			[
+				"orderID",
+				"order_id"
+			],
+			[
+				"profi",
+				"profile_id"
+			],
+			[
+				"access",
+				"access_key"
+			],
+			[
+				"get_time",
+				"get_timeline_from_twitter"
+			],
+			[
+				"cac",
+				"cache_expiration"
+			],
+			[
+				"key",
+				"key_name"
+			],
+			[
+				"memcac",
+				"use_memcached"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"pro",
+				"producto_id"
+			],
+			[
+				"cart",
+				"cartController"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"quanti",
+				"quantity_total"
+			],
+			[
+				"quan",
+				"quantity_total"
+			],
+			[
+				"category",
+				"category_uri"
+			],
+			[
+				"cate",
+				"category_slug"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"func_",
+				"func_num_args"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"new",
+				"newclicks"
+			],
+			[
+				"marca",
+				"marca_url"
+			],
+			[
+				"height",
+				"height_new"
+			],
+			[
+				"he",
+				"height_new"
+			],
+			[
+				"sear",
+				"search_term"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"grid",
+				"grid-notas"
+			],
+			[
+				"b",
+				"bycatalogue"
+			],
+			[
+				"Cata",
+				"CatalogueController"
+			],
+			[
+				"clima_",
+				"clima_look"
+			],
+			[
+				"filter",
+				"filterView"
+			],
+			[
+				"re",
+				"related"
+			],
+			[
+				"hei",
+				"height_1_3"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"byca",
+				"bycatalogue_special"
+			],
+			[
+				"ByCatal",
+				"ByCatalogueController"
+			],
+			[
+				"arr",
+				"arrow-right"
+			],
+			[
+				"topBar_",
+				"topBar_close"
+			],
+			[
+				"ke",
+				"keys_navigation"
+			],
+			[
+				"rand",
+				"randpos"
+			],
+			[
+				"relate",
+				"related_id"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"topBar",
+				"topBar_close"
+			],
+			[
+				"top",
+				"topFilters"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"ti",
+				"tipo_marca"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"contenido",
+				"contenido_id"
+			],
+			[
+				"contenidos",
+				"contenidos_colores"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"l",
+				"loadContent"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"ca",
+				"catalogue"
+			],
+			[
+				"Grid",
+				"CatalogueGridView"
+			],
+			[
+				"CatalogueG",
+				"CatalogueGridView"
+			],
+			[
+				"oa",
+				"oauth_secret"
+			],
+			[
+				"base",
+				"signature_base_string"
+			],
+			[
+				"sig",
+				"signature_request_query"
+			],
+			[
+				"sin",
+				"signature_url"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"o",
+				"oauth_token"
+			],
+			[
+				"slide",
+				"slider_current_idx"
+			],
+			[
+				"s_",
+				"s_big_gallery_html"
+			],
+			[
+				"big_",
+				"big_image_width"
+			],
+			[
+				"i_",
+				"i_height"
+			],
+			[
+				"o_",
+				"o_parameters"
+			],
+			[
+				"big",
+				"big_container"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/franco/Entermotion/ye/files/haydn-config.php",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/franco/Entermotion/ye/files/content/events.php",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/franco/Entermotion/ye/files/app/classes/Store.class.php",
+			"settings":
+			{
+				"buffer_size": 68862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/franco/Entermotion/ye/files/app/classes/HOP copy 2.php",
+			"settings":
+			{
+				"buffer_size": 10174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/franco/Entermotion/ye/files/app/classes/security.php",
+			"settings":
+			{
+				"buffer_size": 838,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/franco/Entermotion/ye/files/app/classes/StorePages.class.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/database.php",
+		"/home/franco/Entermotion/ye/files/app/conf/local.config.php",
+		"/home/franco/Entermotion/ye/files/app/classes/HOP.php",
+		"/home/franco/Entermotion/ye/files/app/classes/StoreAuthentication.class.php",
+		"/home/franco/Entermotion/ye/files/.htaccess",
+		"/home/franco/720desarrollos/test-project/app/controller/TwitterAPI.php",
+		"/home/franco/720desarrollos/test-project/app/model/Database.php",
+		"/home/franco/720desarrollos/test-project/app/config.php",
+		"/home/franco/720desarrollos/test-project/js/app.js",
+		"/home/franco/720desarrollos/test-project/app/model/TwitterAPI.php",
+		"/home/franco/Desktop/mixsa.marianastariolo.com",
+		"/home/franco/720desarrollos/test-project/index.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/products/index.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/routes.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/mail.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/emails/contacto.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/emails/pedido.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/products/detalles.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/js/functions.js",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/admin/DashboardController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/ProductsController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/login.blade.php",
+		"/home/franco/720desarrollos/elpinar/.htaccess",
+		"/home/franco/720desarrollos/elpinar/wp-content/plugins/contact-form-7/images/.htaccess",
+		"/home/franco/Downloads/noname (1).eml",
+		"/home/franco/720desarrollos/elpinar/wp-content/themes/index.php",
+		"/home/franco/720desarrollos/elpinar/wp-content/plugins/contact-form-7/images/index.php",
+		"/home/franco/720desarrollos/elpinar/wp-content/themes/dandelion/404.php",
+		"/home/franco/720desarrollos/elpinar/wp-content/themes/dandelion/index.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cms/contacto.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/css/themes/blue.css",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/css/style.css",
+		"/home/franco/720desarrollos/5.3/phprc",
+		"/home/franco/Downloads/producto.php",
+		"/home/franco/Downloads/estilos.css",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/css/estilos.css",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cart/create.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cart/index.blade.php",
+		"/home/franco/720desarrollos/mixsa/public/producto.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/vendor/jBox/jBox.css",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/vendor/jBox/jBox.js",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/master.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/CartController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/app.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/.htaccess",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cms/quienes-somos.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/paginator.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/css/slider.css",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/index.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cms/contacto-confirmado.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/js/happy.js",
+		"/home/franco/720desarrollos/mixsa/public/contacto.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/products/index.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/master.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/products/create.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/admin/ProductsController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/admin/ProductsImagesController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/js/functions.js",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/forms/fields.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/view.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/seeds/DatabaseSeeder.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/vendor/laravel/framework/src/Illuminate/Pagination/views/slider.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/vendor/laravel/framework/src/Illuminate/Pagination/views/slider-3.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/MixsaPresenter.php",
+		"/home/franco/720desarrollos/mixsa/public/form-pedido.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/HomeController.php",
+		"/home/franco/720desarrollos/mixsa/public/pedido.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/storage/logs/laravel.log",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/cms/pedido-confirmado.blade.php",
+		"/home/franco/720desarrollos/mixsa/public/form-pedido-confirmacion.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/Dashboard.php",
+		"/home/franco/720desarrollos/mixsa/public/index.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/admin/BrandsController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/brands/create.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/Products.php",
+		"/home/franco/720desarrollos/mixsa/public/producto-categorias.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/migrations/2014_07_26_202336_create_products_table.php",
+		"/home/franco/720desarrollos/mixsa/public/header.php",
+		"/home/franco/720desarrollos/mixsa/public/footer.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/ProductsImages.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/migrations/2014_07_25_200015_create_brands_table.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/migrations/2014_07_18_203029_create_users_table.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/migrations/2014_07_25_142646_create_categories_table.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/Brands.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/composer.json",
+		"/home/franco/720desarrollos/mixsa/public/producto-marcas.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/categories/index.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/admin/CategoriesController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/CommonURL.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/FieldsMaker.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/models/admin/Fields.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/table-basic.html",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/form-editors.html",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/views/admin/categories/edit.blade.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/filters.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/auth.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/page-signin.html",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/page-signup.html",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/controllers/BaseController.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/config/local/app.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/index.html",
+		"/home/franco/720desarrollos/mixsa/mixsa/public/admin/form-wizard.html",
+		"/home/franco/720desarrollos/FXPig/app/app/routes.php",
+		"/home/franco/720desarrollos/mixsa/mixsa/app/database/seeds/users.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/controllers/BannersController.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/js/views.js",
+		"/home/franco/720desarrollos/Catalogue/newsite/js/app.js",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/grid/item.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/includes/share.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/controllers/CatalogueController.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/controllers/ByCatalogueController.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/js/routes.js",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/home.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/css/style2.css",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/product/look_de_marca.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/product/look_compuesto_by_catalogue.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/controllers/WeatherController.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/css/single.css",
+		"/home/franco/720desarrollos/Ramiresz/wordpress/wp-content/themes/spectra/js/imagesloaded.pkgd.min.js",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/routes.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/bycatalogue/one_col.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/bycatalogue/two_col.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/bycatalogue/share.blade.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/css/style.css",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/models/ByCatalogue.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/models/ValoresReader.php",
+		"/home/franco/720desarrollos/Catalogue/newsite/app/views/includes/header.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/franco/720desarrollos/Catalogue/requests/app/controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"security.php",
+			"orderNumber",
+			"insertSignature3",
+			"bill_to_forename",
+			"$_SESSION",
+			"$_SESSION =",
+			"$_SESSION",
+			"last_name",
+			"order_form_data",
+			"$_SESSION['order_form_data']",
+			"bill_to_surname",
+			"billTo_lastName",
+			"billTo_firstName",
+			"$order",
+			"$orderId",
+			"$order",
+			"$order_id",
+			"postOrder",
+			"orderNumber",
+			"_processOrder",
+			"orderNumber",
+			"3(",
+			"3",
+			"Buy",
+			"$map",
+			"InsertMapSignature($map);\nInsertMapSignature",
+			"HOP.php",
+			"orderpage",
+			"checkout",
+			"$this->cache_save( $key_name, 1);\n        ",
+			"max_id",
+			"cache_save",
+			"memcached_",
+			"signin",
+			".producto .datos .pdf:hover",
+			"agregar_producto",
+			"addOverlay",
+			"addOverlay(",
+			"addOverlay()",
+			"this.options.overlay",
+			"_addOverlay",
+			"this.wrapper",
+			"display",
+			"show",
+			"show(",
+			"showImage",
+			"url",
+			"PUT",
+			"cart",
+			"module_uri",
+			"#f1c40f",
+			"cart_quantity_changer",
+			"current",
+			"brand",
+			"brands",
+			"Brands",
+			"catego",
+			"admin.Brands.",
+			"Categories",
+			"$category",
+			"href=\"",
+			"src=\"",
+			"src=\"js/",
+			"src=\"vendors/",
+			"href=\"css/",
+			"href=\"vendors",
+			".share .loves",
+			"titulo",
+			"ByCa",
+			"bind",
+			"scroll",
+			"cover",
+			"valor",
+			"background-size",
+			"bottomline",
+			"background-size",
+			" 7px",
+			"7px",
+			"resetContent",
+			"look-by-catalogue",
+			"loading-overlay",
+			"showLoading",
+			"loading",
+			"showLoading",
+			"fancybox",
+			"item-view-desc-box",
+			"fancybox",
+			"id",
+			".id",
+			"item-view-desc-arrows",
+			"item-view-desc-arrow",
+			"item-view-desc-arrows",
+			"item-view-arrows",
+			".row.special .item-view-desc",
+			"marcas",
+			"related_by_marca",
+			"render()",
+			"searchTerm",
+			"ItemView",
+			"catalogueItem",
+			"height(",
+			"filters",
+			"verde",
+			"pollera",
+			"searchTerm",
+			"keys_navi",
+			"\"keydown #SearchTerm\" : \"makeSearch\"",
+			"navigation",
+			"filters",
+			"layout",
+			"look_compuesto_by_catalogue",
+			"#grid",
+			"filters",
+			"look-by-catalogue",
+			"clima",
+			"stopLoading",
+			"bc-img",
+			"col-xs-12",
+			"img",
+			"bycatalogue",
+			"cursor",
+			"scroll",
+			"reload()",
+			"catalogue_filter",
+			"@media",
+			"move",
+			".subtitle",
+			"item-desc-img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/franco/Entermotion/ye/files/haydn-config.php",
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/franco/Entermotion/ye/files/content/events.php",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/franco/Entermotion/ye/files/app/classes/Store.class.php",
+					"settings":
+					{
+						"buffer_size": 68862,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										36810,
+										36810
+									],
+									[
+										61854,
+										61854
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/franco/Entermotion/ye/files/app/classes/HOP copy 2.php",
+					"settings":
+					{
+						"buffer_size": 10174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3490,
+								3490
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/franco/Entermotion/ye/files/app/classes/security.php",
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 60.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"mixsa/composer.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/franco/720desarrollos/mlambrizio/mlambrizio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}

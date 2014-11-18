@@ -1,0 +1,445 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/*
+Theme Name: TWEETS
+Theme URL: -
+Author: Mariana Stariolo & Franco Risso
+Author URI: http://www.720developments.com/
+Version: 1.0
+*/
+
+/*-------------------------------------------------------------------------------------------
+
+INDEX:
+
+1. GLOBAL
+-1.1 Defaults
+-1.2 Text
+
+2. APPEARANCE AND STRUCTURE OF THE SITE
+-2.1 Header/Top
+-2.2 Tweets List
+-2.2 Footer
+
+
+-------------------------------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------------------------------*/
+/* 1. GLOBAL */
+/*-------------------------------------------------------------------------------------------*/
+
+/* ----------------------- 1.1 Defaults ----------------------- */
+
+@-ms-viewport       { width: device-width; }
+
+*{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 12px; 
+	color: #000; 
+	line-height: 14px;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    background: #23282a url(../images/bg.png) 0 0 repeat;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.img-responsive{
+    width: 100%;
+    height: auto;
+}
+
+/* ----------------------- 1.2 Text ----------------------- */
+p{
+	margin: 0; 
+	padding: 0; 
+	text-align: left;
+}
+
+p em{ 
+	color: #999; 
+}
+
+a{ 
+    text-decoration: none;
+    font-size: inherit; 
+    outline: none;
+    color: #000; 
+    -webkit-transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s, outline 0.2s ease 0s; 
+    -o-transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s, outline 0.2s ease 0s; 
+    -moz-transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s, outline 0.2s ease 0s; 
+    -ms-transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s, outline 0.2s ease 0s;
+    transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s, outline 0.2s ease 0s; 
+}
+
+a:hover, a:active, a:focus{ 
+	text-decoration: none; 
+	outline: none;
+    color: #243139;
+}
+
+strong{
+	font-size: inherit;
+}
+
+/* --- Titles --- */
+h2{
+    color: #cecece;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+
+/*-------------------------------------------------------------------------------------------*/
+/* 2. APPEARANCE AND STRUCTURE OF THE SITE */
+/*-------------------------------------------------------------------------------------------*/
+
+/* ----------------------- 2.1 Header/Top ----------------------- */
+.v-centering{
+    display: table;
+    padding: 70px 0;
+    height: 100%;
+}
+
+.tweets{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.tweets .tweets-shadow{
+    margin: 0 auto;
+    width: 424px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 70px 0px rgba(255, 255, 255, 0.2);
+    -moz-box-shadow:    0px 0px 70px 0px rgba(255, 255, 255, 0.2);
+    box-shadow:         0px 0px 70px 0px rgba(255, 255, 255, 0.2);
+}
+
+.tweets .tweets-shadow2{
+    width: 100%;
+    background: #dedede;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow:    0px 0px 8px 0px rgba(0, 0, 0, 0.75);
+    box-shadow:         0px 0px 8px 0px rgba(0, 0, 0, 0.75);
+}
+
+header{
+    width: 100%;
+    text-align: center;
+    background: #243139 url(../images/bg-header.png) 0 0 no-repeat;
+    height: 113px;
+    margin: 0;
+    padding: 50px 0 0;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+/* ----------------------- 2.2 Tweets List ----------------------- */
+.tweets-list{
+    width: 100%;
+    height: 370px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.tweets-list ul, .tweets-list ul li{
+    display: block;
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-bottom: 1px solid #FFF;
+}
+
+.tweets-list ul li{
+    padding: 12px 24px;
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #c7c7c7;
+}
+
+.tweets-list ul li:first-child{
+    border-top: none;
+}
+
+.tweets-list ul li img{
+    float: left;
+    margin: 0 17px 0 0;
+}
+
+
+/* ----------------------- 2.3 Footer ----------------------- */
+footer{
+	width: 100%; 
+	margin: 0; 
+	padding: 17px 24px 24px;
+}
+
+.btn-default, .btn-default:visited, .btn-default:focus{
+    background: #bbb;
+    border: none;
+    border-top: 1px solid #858585;
+    padding: 0;
+    line-height: 45px;
+    text-align: center;
+    color: #243139;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100%;
+    -webkit-transition: background-color 0.2s ease;
+    -moz-transition: background-color 0.2s ease;
+    -o-transition: background-color 0.2s ease;
+    transition: background-color 0.2s ease;
+}
+
+.btn-default:hover, .btn-default:active{
+    background-color: #CCC;
+}
+
+.btn-default.loading, .btn-default.loading:visited{
+    text-indent: -10000px;
+    background: url('../images/loading.gif') no-repeat center center;
+    background-color: #bbb;
+}
+
+.btn-default.loading:hover, .btn-default.loading:active, .btn-default.loading:focus{
+    background-color: #bbb;
+}
+
+/* =========================================================================
+   Media Queries
+   ========================================================================== */
+@media (max-width: 767px) {
+
+.v-centering{
+    padding: 15px 0;
+}
+
+header{
+    height: 83px;
+    padding-top: 30px;
+}
+
+.tweets .tweets-shadow{
+    width: 290px;
+}
+
+.tweets-list ul li {
+    padding: 12px;
+}
+
+footer {
+    padding: 17px 12px;
+}
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
